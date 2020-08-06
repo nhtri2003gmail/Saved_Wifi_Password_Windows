@@ -1,4 +1,8 @@
-Requirement: Python 3.x
+Requirement: 
+
++++ Windows OS; 
+
++++ Python 3.x
 
 Link download: https://www.python.org/downloads/
 
